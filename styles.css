@@ -1,8 +1,16 @@
 body{
     margin:0;
     padding:0;
+<<<<<<< HEAD
     
 }
 h2{
     color: red;
+=======
+
+}
+
+h1{
+    color: blue;
+>>>>>>> 4535940cc8a89477714f4a1d2256dd2407ca15b5
 }
